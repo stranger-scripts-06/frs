@@ -1,0 +1,501 @@
+id,gender,masterCategory,subCategory,articleType,baseColour,season,year,usage,productDisplayName
+1,Men,Apparel,Dress,Maxi Dress,Red,Winter,2013.0,Travel,Men Maxi Dress Red
+2,Women,Apparel,Jacket,Leather Jacket,Navy Blue,Winter,2023.0,Party,Women Leather Jacket Navy Blue
+3,Men,Footwear,Sandals,Flat Sandals,,Summer,2019.0,Travel,Men Flat Sandals Olive
+4,Men,Apparel,Jacket,Leather Jacket,Peach,Fall,2015.0,Party,Men Leather Jacket Peach
+5,Women,Footwear,Flip Flops,Beach Flip Flops,Yellow,Summer,2017.0,Casual,Women Beach Flip Flops Yellow
+6,Women,Apparel,Dress,Maxi Dress,Red,Fall,2023.0,Ethnic,Women Maxi Dress Red
+7,Women,,Jacket,Leather Jacket,Coral,Spring,2018.0,Ethnic,Women Leather Jacket Coral
+8,Women,Apparel,Jacket,Denim Jacket,Green,Winter,2013.0,Travel,Women Denim Jacket Green
+9,Men,Footwear,Flip Flops,Beach Flip Flops,Black,Fall,2019.0,Formal,Men Beach Flip Flops Black
+10,Men,Footwear,Sandals,Flat Sandals,Green,Spring,2016.0,Ethnic,Men Flat Sandals Green
+11,Men,Apparel,Topwear,Shirt,Navy Blue,Winter,2017.0,Casual,Men Shirt Navy Blue
+12,Men,Apparel,Jacket,Denim Jacket,Peach,Spring,2016.0,Casual,Men Denim Jacket Peach
+13,Women,Footwear,Shoes,Sneakers,Red,Winter,2024.0,Formal,Women Sneakers Red
+14,Men,Apparel,Bottomwear,,Olive,Spring,2025.0,Formal,Men Jeans Olive
+15,Women,Apparel,Bottomwear,Trousers,Red,Summer,2011.0,Travel,Women Trousers Red
+16,Men,Apparel,Bottomwear,Trousers,Black,Winter,2011.0,Ethnic,Men Trousers Black
+17,Men,Footwear,Flip Flops,Beach Flip Flops,Black,Summer,2024.0,Ethnic,Men Beach Flip Flops Black
+18,Women,Footwear,Shoes,Formal Shoes,Turquoise Blue,Fall,2010.0,Travel,Women Formal Shoes Turquoise Blue
+19,Women,Footwear,Sandals,Flat Sandals,Yellow,Winter,,Ethnic,Women Flat Sandals Yellow
+20,Women,Apparel,Jacket,Leather Jacket,Turquoise Blue,Summer,2013.0,Casual,Women Leather Jacket Turquoise Blue
+21,Women,Apparel,Dress,Maxi Dress,Red,Summer,2021.0,Ethnic,Women Maxi Dress Red
+22,Women,Apparel,Bottomwear,Shorts,Yellow,Spring,2017.0,Party,Women Shorts Yellow
+23,Men,Apparel,Topwear,Blouse,Red,Spring,2020.0,Party,Men Blouse Red
+24,Men,Footwear,Shoes,Formal Shoes,Navy Blue,Summer,2023.0,Party,Men Formal Shoes Navy Blue
+25,Men,Apparel,Dress,Mini Dress,Black,Fall,2020.0,Travel,Men Mini Dress Black
+26,Women,Footwear,Sandals,Flat Sandals,Coral,Fall,2022.0,Ethnic,Women Flat Sandals Coral
+27,Women,Apparel,Topwear,Shirt,Turquoise Blue,Fall,2012.0,Formal,Women Shirt Turquoise Blue
+28,Women,Apparel,Jacket,Leather Jacket,Olive,Winter,2014.0,Travel,Women Leather Jacket Olive
+29,Women,Apparel,Bottomwear,Jeans,Peach,Winter,2024.0,Travel,Women Jeans Peach
+30,Women,Apparel,Jacket,Leather Jacket,Green,Winter,2018.0,Ethnic,Women Leather Jacket Green
+31,Men,Apparel,Jacket,Denim Jacket,Red,Summer,2023.0,,Men Denim Jacket Red
+32,Women,Footwear,Shoes,Formal Shoes,Green,Spring,2023.0,Ethnic,Women Formal Shoes Green
+33,Women,,Jacket,Denim Jacket,Coral,Summer,2022.0,Ethnic,Women Denim Jacket Coral
+34,,Footwear,Flip Flops,Beach Flip Flops,Olive,Fall,2012.0,Sports,Women Beach Flip Flops Olive
+35,Men,Apparel,Topwear,Blouse,White,Winter,2014.0,Sports,Men Blouse White
+36,Men,Apparel,Dress,Maxi Dress,Coral,Summer,2019.0,Ethnic,Men Maxi Dress Coral
+37,Women,Apparel,Topwear,Shirt,Turquoise Blue,Spring,2021.0,Casual,Women Shirt Turquoise Blue
+38,Men,Footwear,Shoes,Formal Shoes,Coral,Spring,2024.0,Sports,Men Formal Shoes Coral
+39,Women,Footwear,Shoes,Formal Shoes,Yellow,Winter,2025.0,Formal,Women Formal Shoes Yellow
+40,Men,Footwear,Flip Flops,Beach Flip Flops,Peach,Spring,2024.0,Casual,Men Beach Flip Flops Peach
+41,Women,Footwear,Sandals,Heeled Sandals,Green,Fall,2018.0,Formal,Women Heeled Sandals Green
+42,,Apparel,Bottomwear,Trousers,Red,Fall,2015.0,Party,Women Trousers Red
+43,Women,Apparel,Topwear,Blouse,Green,Spring,2025.0,Sports,Women Blouse Green
+44,Men,Apparel,Bottomwear,Shorts,Green,Summer,2017.0,Casual,Men Shorts Green
+45,Women,Footwear,Sandals,Flat Sandals,Coral,,2016.0,Travel,Women Flat Sandals Coral
+46,Women,Apparel,Bottomwear,Trousers,Green,Spring,2012.0,Travel,Women Trousers Green
+47,Men,Footwear,Shoes,Sneakers,Navy Blue,Winter,2019.0,Ethnic,Men Sneakers Navy Blue
+48,Women,Footwear,Shoes,Sneakers,Olive,Fall,2018.0,Casual,Women Sneakers Olive
+49,Men,Apparel,Jacket,Leather Jacket,Green,Winter,2023.0,Travel,Men Leather Jacket Green
+50,Women,Footwear,Sandals,Heeled Sandals,Turquoise Blue,Summer,2024.0,Casual,Women Heeled Sandals Turquoise Blue
+51,Women,Apparel,Bottomwear,Shorts,Yellow,Spring,2024.0,Casual,Women Shorts Yellow
+52,Men,Apparel,Dress,Maxi Dress,Turquoise Blue,Spring,2012.0,Formal,Men Maxi Dress Turquoise Blue
+53,Women,Footwear,Flip Flops,Beach Flip Flops,Red,Spring,2014.0,Sports,Women Beach Flip Flops Red
+54,Women,Apparel,Dress,Mini Dress,Coral,Spring,2014.0,Sports,Women Mini Dress Coral
+55,Women,Apparel,Jacket,Denim Jacket,Yellow,Spring,2022.0,Sports,Women Denim Jacket Yellow
+56,Men,Footwear,Shoes,Formal Shoes,Navy Blue,Winter,2023.0,Travel,Men Formal Shoes Navy Blue
+57,Women,Footwear,Sandals,Heeled Sandals,Turquoise Blue,Summer,2012.0,Formal,Women Heeled Sandals Turquoise Blue
+58,Women,Apparel,Dress,Maxi Dress,Navy Blue,Fall,2011.0,Party,Women Maxi Dress Navy Blue
+59,Women,,Jacket,Denim Jacket,Red,Spring,2018.0,Sports,Women Denim Jacket Red
+60,Women,Footwear,Sandals,Heeled Sandals,Peach,Fall,2016.0,Sports,Women Heeled Sandals Peach
+61,Women,Footwear,Shoes,Sneakers,Coral,Spring,2019.0,Formal,Women Sneakers Coral
+62,Men,Apparel,Dress,Mini Dress,Navy Blue,Fall,2014.0,Casual,Men Mini Dress Navy Blue
+63,Women,Apparel,Dress,Mini Dress,Green,Fall,2013.0,Sports,Women Mini Dress Green
+64,Women,Apparel,Jacket,Denim Jacket,Green,Summer,2024.0,,Women Denim Jacket Green
+65,Women,Apparel,Topwear,Blouse,Peach,Fall,2023.0,Casual,Women Blouse Peach
+66,Women,Apparel,Jacket,Denim Jacket,Peach,Spring,2018.0,Casual,Women Denim Jacket Peach
+67,Women,Apparel,Jacket,Leather Jacket,Red,Summer,2024.0,Casual,Women Leather Jacket Red
+68,Men,Apparel,Bottomwear,Jeans,Yellow,Winter,2010.0,,Men Jeans Yellow
+69,Men,Footwear,Shoes,Sneakers,Green,Summer,2014.0,Travel,Men Sneakers Green
+70,Men,Footwear,Flip Flops,Beach Flip Flops,Navy Blue,Spring,2022.0,Sports,Men Beach Flip Flops Navy Blue
+71,Women,Footwear,Sandals,Heeled Sandals,Peach,Spring,2013.0,Travel,Women Heeled Sandals Peach
+72,Women,Footwear,Flip Flops,Beach Flip Flops,Yellow,Spring,2020.0,Travel,Women Beach Flip Flops Yellow
+73,Women,Apparel,Topwear,Blouse,Turquoise Blue,Fall,2013.0,Sports,Women Blouse Turquoise Blue
+74,Men,Apparel,Jacket,Denim Jacket,Black,Fall,2021.0,Casual,Men Denim Jacket Black
+75,,Footwear,Shoes,Sneakers,Green,Fall,2020.0,Party,Men Sneakers Green
+76,Men,Footwear,Flip Flops,Beach Flip Flops,Yellow,Winter,2021.0,Party,Men Beach Flip Flops Yellow
+77,Women,Footwear,Sandals,Heeled Sandals,Peach,Spring,2023.0,Party,Women Heeled Sandals Peach
+78,Men,Footwear,Sandals,Flat Sandals,Navy Blue,Winter,2019.0,Formal,Men Flat Sandals Navy Blue
+79,Men,Footwear,Shoes,Formal Shoes,Navy Blue,Spring,2010.0,,Men Formal Shoes Navy Blue
+80,Women,Apparel,Jacket,Leather Jacket,Black,Spring,2013.0,Formal,Women Leather Jacket Black
+81,Men,Apparel,Dress,Mini Dress,White,Winter,2013.0,Formal,Men Mini Dress White
+82,Women,Footwear,Sandals,Heeled Sandals,White,Spring,2012.0,Sports,Women Heeled Sandals White
+83,Women,Apparel,Topwear,Blouse,Coral,Spring,2024.0,Ethnic,Women Blouse Coral
+84,Men,Apparel,Jacket,Denim Jacket,Yellow,Summer,2015.0,Casual,Men Denim Jacket Yellow
+85,Women,Apparel,Dress,Maxi Dress,Yellow,Summer,2022.0,Party,Women Maxi Dress Yellow
+86,Women,Footwear,Shoes,Sneakers,Green,Spring,2020.0,Formal,Women Sneakers Green
+87,Women,Footwear,Shoes,Sneakers,Yellow,Spring,2016.0,Formal,Women Sneakers Yellow
+88,Women,Apparel,Jacket,Denim Jacket,White,Winter,2015.0,Travel,Women Denim Jacket White
+89,Men,Footwear,Flip Flops,Beach Flip Flops,Yellow,Spring,2024.0,Party,Men Beach Flip Flops Yellow
+90,Women,Footwear,Sandals,Flat Sandals,Turquoise Blue,Summer,2019.0,Casual,Women Flat Sandals Turquoise Blue
+91,Women,Apparel,,Denim Jacket,Olive,Fall,2017.0,Sports,Women Denim Jacket Olive
+92,,Footwear,Sandals,Flat Sandals,Peach,Spring,2010.0,Casual,Women Flat Sandals Peach
+93,Men,Apparel,Bottomwear,Trousers,Coral,Spring,2012.0,,Men Trousers Coral
+94,Women,Apparel,Jacket,Denim Jacket,Black,Fall,2012.0,Ethnic,Women Denim Jacket Black
+95,,Footwear,Shoes,Formal Shoes,Red,Summer,2020.0,Formal,Men Formal Shoes Red
+96,Men,Apparel,Jacket,Denim Jacket,Green,Winter,2011.0,Formal,Men Denim Jacket Green
+97,Women,Footwear,Shoes,Formal Shoes,Green,Summer,2021.0,Sports,Women Formal Shoes Green
+98,Women,Apparel,Jacket,Denim Jacket,Olive,Winter,2019.0,Party,Women Denim Jacket Olive
+99,Women,Footwear,Flip Flops,Beach Flip Flops,Black,Spring,2021.0,Ethnic,Women Beach Flip Flops Black
+100,Women,Footwear,Flip Flops,Beach Flip Flops,Coral,Winter,2024.0,Party,Women Beach Flip Flops Coral
+101,Men,Footwear,Sandals,Heeled Sandals,Turquoise Blue,Summer,2018.0,Party,Men Heeled Sandals Turquoise Blue
+102,Men,Footwear,Shoes,Formal Shoes,Yellow,Summer,2019.0,Party,Men Formal Shoes Yellow
+103,Men,Apparel,Jacket,Denim Jacket,Yellow,Fall,2024.0,Ethnic,Men Denim Jacket Yellow
+104,Men,Apparel,Dress,Maxi Dress,Peach,Spring,2021.0,Formal,Men Maxi Dress Peach
+105,Men,Apparel,Dress,Maxi Dress,White,Fall,2017.0,Party,Men Maxi Dress White
+106,Men,Apparel,Bottomwear,Jeans,Coral,Fall,2011.0,Casual,Men Jeans Coral
+107,Women,Footwear,Flip Flops,Beach Flip Flops,Olive,Fall,2024.0,Casual,Women Beach Flip Flops Olive
+108,Women,Footwear,Shoes,Formal Shoes,Turquoise Blue,Summer,2020.0,Formal,Women Formal Shoes Turquoise Blue
+109,Men,Footwear,Sandals,Heeled Sandals,Red,Winter,2025.0,Ethnic,Men Heeled Sandals Red
+110,,Apparel,Dress,Mini Dress,Coral,Spring,2019.0,Ethnic,Men Mini Dress Coral
+111,Men,Footwear,Sandals,Heeled Sandals,Black,Spring,2024.0,Ethnic,Men Heeled Sandals Black
+112,,Apparel,Bottomwear,Shorts,Turquoise Blue,Spring,2011.0,Casual,Women Shorts Turquoise Blue
+113,Women,Apparel,,Leather Jacket,Coral,Fall,2025.0,Travel,Women Leather Jacket Coral
+114,Men,Footwear,Flip Flops,Beach Flip Flops,Navy Blue,,2015.0,Ethnic,Men Beach Flip Flops Navy Blue
+115,Men,Footwear,Flip Flops,Beach Flip Flops,White,Spring,2016.0,Sports,Men Beach Flip Flops White
+116,Women,Footwear,Flip Flops,Beach Flip Flops,Peach,Fall,2021.0,Travel,Women Beach Flip Flops Peach
+117,Men,Footwear,Flip Flops,Beach Flip Flops,Peach,Fall,2025.0,Party,Men Beach Flip Flops Peach
+118,Women,Apparel,Dress,Maxi Dress,Green,Summer,2021.0,Sports,Women Maxi Dress Green
+119,Men,Apparel,Topwear,Blouse,Turquoise Blue,Winter,2017.0,Casual,Men Blouse Turquoise Blue
+120,Women,Footwear,Sandals,Flat Sandals,Green,Fall,2019.0,Travel,Women Flat Sandals Green
+121,,Apparel,Topwear,Shirt,Peach,Winter,2019.0,Casual,Women Shirt Peach
+122,Men,Footwear,Flip Flops,Beach Flip Flops,Black,Fall,2015.0,Travel,Men Beach Flip Flops Black
+123,Women,Footwear,Sandals,,Black,Spring,2013.0,Formal,Women Heeled Sandals Black
+124,Men,Footwear,Sandals,Heeled Sandals,Red,Summer,2013.0,Sports,Men Heeled Sandals Red
+125,Women,Footwear,Sandals,Flat Sandals,Red,Winter,2025.0,Formal,Women Flat Sandals Red
+126,Men,Apparel,Jacket,Leather Jacket,Black,Summer,2011.0,Ethnic,Men Leather Jacket Black
+127,Women,Apparel,Jacket,Denim Jacket,,Winter,,Sports,Women Denim Jacket Peach
+128,,Apparel,Jacket,Leather Jacket,Black,Summer,2012.0,Sports,Men Leather Jacket Black
+129,Women,Footwear,Flip Flops,Beach Flip Flops,Black,,2021.0,Casual,Women Beach Flip Flops Black
+130,Women,Footwear,Shoes,Sneakers,Peach,Fall,2014.0,Party,Women Sneakers Peach
+131,Men,Apparel,Topwear,T-shirt,Coral,Summer,2024.0,Ethnic,Men T-shirt Coral
+132,Men,Footwear,Shoes,Formal Shoes,Coral,Fall,2017.0,Party,Men Formal Shoes Coral
+133,Men,Footwear,Sandals,Heeled Sandals,Navy Blue,Fall,2022.0,Ethnic,Men Heeled Sandals Navy Blue
+134,Men,Footwear,Shoes,Formal Shoes,Olive,Winter,2022.0,Formal,Men Formal Shoes Olive
+135,Women,Apparel,Topwear,,Coral,Winter,2025.0,Formal,Women T-shirt Coral
+136,Women,Apparel,Bottomwear,Trousers,Red,Fall,2019.0,Sports,Women Trousers Red
+137,Women,Apparel,Dress,Mini Dress,Olive,Summer,2017.0,Travel,Women Mini Dress Olive
+138,Men,Footwear,Sandals,Heeled Sandals,Green,Spring,2025.0,Sports,Men Heeled Sandals Green
+139,Men,Apparel,Topwear,,Navy Blue,Summer,2023.0,Formal,Men Blouse Navy Blue
+140,Women,Footwear,Shoes,,Turquoise Blue,Spring,2010.0,Casual,Women Sneakers Turquoise Blue
+141,Men,Apparel,Bottomwear,Jeans,Red,Fall,2021.0,Party,Men Jeans Red
+142,Men,Apparel,Topwear,Shirt,Olive,Spring,2025.0,Casual,Men Shirt Olive
+143,Men,Apparel,Bottomwear,Shorts,Coral,Spring,2018.0,,Men Shorts Coral
+144,Men,Apparel,Jacket,Denim Jacket,Green,Winter,2017.0,Ethnic,Men Denim Jacket Green
+145,Women,Apparel,Topwear,Shirt,,Summer,2020.0,Ethnic,Women Shirt Red
+146,Women,Footwear,Flip Flops,Beach Flip Flops,Coral,Spring,2012.0,Ethnic,Women Beach Flip Flops Coral
+147,Women,Apparel,Topwear,T-shirt,Green,Spring,2021.0,Party,Women T-shirt Green
+148,Women,Footwear,Shoes,Formal Shoes,Olive,Spring,2012.0,Travel,Women Formal Shoes Olive
+149,Women,Apparel,Topwear,T-shirt,Olive,Fall,2023.0,Party,Women T-shirt Olive
+150,Women,Apparel,Jacket,Leather Jacket,Coral,Spring,2020.0,Sports,Women Leather Jacket Coral
+151,Women,Apparel,Jacket,Leather Jacket,Green,Spring,2017.0,Party,Women Leather Jacket Green
+152,Men,Footwear,Sandals,Flat Sandals,Peach,Fall,2012.0,Sports,Men Flat Sandals Peach
+153,Women,Footwear,Sandals,Heeled Sandals,Turquoise Blue,Summer,2021.0,Travel,Women Heeled Sandals Turquoise Blue
+154,Men,Footwear,Flip Flops,Beach Flip Flops,Black,Summer,2013.0,Party,Men Beach Flip Flops Black
+155,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2023.0,Casual,Men Formal Shoes Black
+156,Women,Footwear,Flip Flops,Beach Flip Flops,Green,Summer,2013.0,Casual,Women Beach Flip Flops Green
+157,,Footwear,Shoes,Formal Shoes,White,Winter,2023.0,Sports,Women Formal Shoes White
+158,Men,Apparel,Bottomwear,Trousers,Yellow,Winter,2024.0,Casual,Men Trousers Yellow
+159,Women,Apparel,Dress,Maxi Dress,White,Fall,2013.0,Formal,Women Maxi Dress White
+160,Men,Apparel,Jacket,Leather Jacket,White,Winter,2020.0,Sports,Men Leather Jacket White
+161,,Footwear,Flip Flops,Beach Flip Flops,Peach,Winter,2012.0,Ethnic,Women Beach Flip Flops Peach
+162,Women,Apparel,Topwear,Shirt,Turquoise Blue,Fall,2011.0,Travel,Women Shirt Turquoise Blue
+163,Women,Footwear,Shoes,Formal Shoes,Black,Winter,2016.0,Travel,Women Formal Shoes Black
+164,Men,Footwear,Sandals,Heeled Sandals,Coral,Winter,2020.0,Travel,Men Heeled Sandals Coral
+165,Women,Apparel,Dress,Maxi Dress,White,Winter,2014.0,Travel,Women Maxi Dress White
+166,Men,Apparel,Jacket,Leather Jacket,Yellow,Spring,2025.0,Party,Men Leather Jacket Yellow
+167,Women,Apparel,Jacket,Denim Jacket,Peach,Fall,2020.0,Party,Women Denim Jacket Peach
+168,Women,Apparel,Topwear,T-shirt,Peach,Spring,2010.0,Sports,Women T-shirt Peach
+169,Women,Apparel,Dress,Maxi Dress,,Spring,2019.0,Travel,Women Maxi Dress Navy Blue
+170,Women,Apparel,Topwear,Blouse,Yellow,Summer,2023.0,Travel,Women Blouse Yellow
+171,Men,Apparel,Topwear,Blouse,Coral,Summer,2015.0,Sports,Men Blouse Coral
+172,Men,Apparel,Jacket,Leather Jacket,Olive,Fall,2014.0,Formal,Men Leather Jacket Olive
+173,Women,Apparel,Bottomwear,Shorts,Olive,Fall,2011.0,Formal,Women Shorts Olive
+174,,Footwear,Sandals,Heeled Sandals,Yellow,Winter,2025.0,Casual,Men Heeled Sandals Yellow
+175,Women,Footwear,Sandals,Heeled Sandals,Black,Winter,2018.0,Casual,Women Heeled Sandals Black
+176,Men,Footwear,Sandals,Heeled Sandals,Red,Summer,2017.0,,Men Heeled Sandals Red
+177,Men,Apparel,Bottomwear,Trousers,Yellow,,2015.0,Party,Men Trousers Yellow
+178,Men,Footwear,Sandals,Flat Sandals,Peach,Spring,2021.0,Casual,Men Flat Sandals Peach
+179,Men,Apparel,Topwear,T-shirt,Navy Blue,Spring,2021.0,Sports,Men T-shirt Navy Blue
+180,Men,Footwear,Sandals,Heeled Sandals,Green,Summer,2021.0,Casual,Men Heeled Sandals Green
+181,Women,Footwear,Flip Flops,Beach Flip Flops,Turquoise Blue,Spring,2010.0,Party,Women Beach Flip Flops Turquoise Blue
+182,Men,Apparel,Bottomwear,Jeans,,Summer,2017.0,Ethnic,Men Jeans Olive
+183,Men,Apparel,Bottomwear,Trousers,Peach,Summer,2014.0,Travel,Men Trousers Peach
+184,Men,Apparel,Jacket,Denim Jacket,Coral,Summer,2023.0,Travel,Men Denim Jacket Coral
+185,Women,Apparel,Topwear,T-shirt,White,Summer,2014.0,Casual,Women T-shirt White
+186,Men,Apparel,Bottomwear,Shorts,,Summer,2016.0,Party,Men Shorts Green
+187,Women,Footwear,Sandals,Flat Sandals,Black,Spring,2013.0,Formal,Women Flat Sandals Black
+188,Men,Footwear,Shoes,Sneakers,Black,Winter,2024.0,Formal,Men Sneakers Black
+189,Women,Footwear,Shoes,Formal Shoes,Olive,Winter,2021.0,Formal,Women Formal Shoes Olive
+190,Women,Apparel,Topwear,Shirt,Olive,,2023.0,Formal,Women Shirt Olive
+191,Women,Footwear,Flip Flops,Beach Flip Flops,Olive,Fall,2015.0,Casual,Women Beach Flip Flops Olive
+192,Men,Apparel,Topwear,T-shirt,Red,Fall,2011.0,Formal,Men T-shirt Red
+193,Women,Apparel,Dress,Maxi Dress,Coral,Winter,,Ethnic,Women Maxi Dress Coral
+194,Men,Apparel,Dress,Maxi Dress,Yellow,Summer,2010.0,Formal,Men Maxi Dress Yellow
+195,Women,Apparel,Dress,Mini Dress,Yellow,Winter,2015.0,Travel,Women Mini Dress Yellow
+196,Women,Apparel,Bottomwear,Trousers,Green,Fall,2014.0,Formal,Women Trousers Green
+197,Men,Apparel,Jacket,Denim Jacket,Yellow,Summer,2017.0,Party,Men Denim Jacket Yellow
+198,Women,Apparel,Bottomwear,Shorts,Black,Fall,2018.0,Casual,Women Shorts Black
+199,Women,Apparel,Jacket,Denim Jacket,White,Spring,2012.0,Casual,Women Denim Jacket White
+200,Men,Footwear,Sandals,Heeled Sandals,Navy Blue,Spring,2015.0,Ethnic,Men Heeled Sandals Navy Blue
+201,Women,Footwear,Flip Flops,,Black,Summer,2022.0,Ethnic,Women Beach Flip Flops Black
+202,Men,Apparel,Bottomwear,Jeans,Green,Summer,2025.0,Casual,Men Jeans Green
+203,Women,Apparel,Jacket,Denim Jacket,Green,Spring,2024.0,Party,Women Denim Jacket Green
+204,Men,Apparel,Jacket,Leather Jacket,Turquoise Blue,Spring,2017.0,Sports,Men Leather Jacket Turquoise Blue
+205,,Apparel,Jacket,Denim Jacket,White,Winter,2016.0,Formal,Men Denim Jacket White
+206,Men,Apparel,Jacket,Leather Jacket,Turquoise Blue,Fall,2018.0,Ethnic,Men Leather Jacket Turquoise Blue
+207,Men,Apparel,Topwear,Shirt,Turquoise Blue,Fall,2023.0,Party,Men Shirt Turquoise Blue
+208,,Footwear,Flip Flops,Beach Flip Flops,Navy Blue,Spring,2018.0,Party,Men Beach Flip Flops Navy Blue
+209,Men,Footwear,Sandals,Heeled Sandals,Yellow,Fall,2023.0,Ethnic,Men Heeled Sandals Yellow
+210,Men,Apparel,Dress,Mini Dress,White,Summer,2015.0,Formal,Men Mini Dress White
+211,Women,Footwear,Sandals,Flat Sandals,Navy Blue,Winter,2021.0,Sports,Women Flat Sandals Navy Blue
+212,Men,Footwear,Shoes,Formal Shoes,,Winter,2016.0,,Men Formal Shoes Navy Blue
+213,Men,Apparel,Topwear,T-shirt,Green,Fall,2018.0,Sports,Men T-shirt Green
+214,Men,Footwear,Sandals,Heeled Sandals,Green,Summer,2025.0,Casual,Men Heeled Sandals Green
+215,Men,Apparel,Jacket,Leather Jacket,White,Summer,2025.0,Party,Men Leather Jacket White
+216,Men,Footwear,Sandals,Heeled Sandals,Turquoise Blue,Fall,2015.0,Travel,Men Heeled Sandals Turquoise Blue
+217,Women,Apparel,Bottomwear,Trousers,Red,Fall,2023.0,Party,Women Trousers Red
+218,Women,Apparel,Topwear,Blouse,Olive,Fall,2023.0,Casual,Women Blouse Olive
+219,Men,Apparel,Jacket,Leather Jacket,White,Fall,2011.0,Casual,Men Leather Jacket White
+220,Women,Footwear,Flip Flops,Beach Flip Flops,Peach,Spring,,,Women Beach Flip Flops Peach
+221,Men,Apparel,Dress,Mini Dress,White,Summer,2022.0,Ethnic,Men Mini Dress White
+222,Men,Footwear,Flip Flops,Beach Flip Flops,Red,Winter,2022.0,Casual,Men Beach Flip Flops Red
+223,Men,Footwear,Sandals,Heeled Sandals,Turquoise Blue,Summer,2011.0,Travel,Men Heeled Sandals Turquoise Blue
+224,Men,Apparel,Dress,Mini Dress,Black,Fall,2014.0,Sports,Men Mini Dress Black
+225,Women,Apparel,Dress,Mini Dress,,Winter,2011.0,Ethnic,Women Mini Dress Green
+226,Women,Apparel,Topwear,Blouse,Black,Summer,2018.0,Travel,Women Blouse Black
+227,Women,Footwear,Sandals,Flat Sandals,Black,Summer,2010.0,Formal,Women Flat Sandals Black
+228,Men,Apparel,Jacket,Leather Jacket,Peach,Fall,2022.0,Travel,Men Leather Jacket Peach
+229,Men,Apparel,,Leather Jacket,Coral,Spring,2015.0,Ethnic,Men Leather Jacket Coral
+230,Men,Footwear,Flip Flops,Beach Flip Flops,Black,Fall,2020.0,Casual,Men Beach Flip Flops Black
+231,Men,Footwear,Sandals,Flat Sandals,Peach,Fall,2022.0,Formal,Men Flat Sandals Peach
+232,Men,Apparel,Jacket,Leather Jacket,Red,Fall,2018.0,Casual,Men Leather Jacket Red
+233,Women,Footwear,,Beach Flip Flops,Peach,Summer,2013.0,Sports,Women Beach Flip Flops Peach
+234,Men,Footwear,Flip Flops,Beach Flip Flops,Navy Blue,Winter,2024.0,Party,Men Beach Flip Flops Navy Blue
+235,Women,Footwear,Sandals,Heeled Sandals,Turquoise Blue,Fall,2013.0,Casual,Women Heeled Sandals Turquoise Blue
+236,Women,Apparel,Jacket,Denim Jacket,Yellow,Summer,2023.0,Casual,Women Denim Jacket Yellow
+237,Women,Apparel,Topwear,Blouse,Olive,Spring,2015.0,Travel,Women Blouse Olive
+238,Men,Footwear,Flip Flops,Beach Flip Flops,Green,Spring,2014.0,Formal,Men Beach Flip Flops Green
+239,Men,Apparel,Bottomwear,Shorts,Green,Fall,2014.0,Travel,Men Shorts Green
+240,Women,Footwear,Flip Flops,Beach Flip Flops,Turquoise Blue,Summer,2010.0,Sports,Women Beach Flip Flops Turquoise Blue
+241,Women,Apparel,Topwear,Shirt,Peach,Summer,2017.0,Travel,Women Shirt Peach
+242,Women,Footwear,Sandals,Flat Sandals,Navy Blue,Fall,2016.0,Ethnic,Women Flat Sandals Navy Blue
+243,Men,Apparel,Dress,Mini Dress,White,Summer,2015.0,,Men Mini Dress White
+244,Women,Apparel,Topwear,T-shirt,Yellow,Summer,2019.0,Sports,Women T-shirt Yellow
+245,Men,Footwear,Sandals,Heeled Sandals,Black,Fall,2017.0,Formal,Men Heeled Sandals Black
+246,Men,Apparel,Dress,Mini Dress,Red,Winter,2011.0,Travel,Men Mini Dress Red
+247,Women,Footwear,Flip Flops,Beach Flip Flops,Green,Winter,2020.0,Ethnic,Women Beach Flip Flops Green
+248,Men,,Shoes,Sneakers,Turquoise Blue,Spring,2012.0,Travel,Men Sneakers Turquoise Blue
+249,,Footwear,Flip Flops,Beach Flip Flops,Peach,Spring,2023.0,Party,Men Beach Flip Flops Peach
+250,Men,Footwear,Sandals,Flat Sandals,Green,Fall,2012.0,Party,Men Flat Sandals Green
+251,,Apparel,Dress,Mini Dress,Navy Blue,Winter,2013.0,Casual,Women Mini Dress Navy Blue
+252,Women,Apparel,Bottomwear,Jeans,Red,Fall,2016.0,Casual,Women Jeans Red
+253,Women,Apparel,Dress,Maxi Dress,Red,Spring,2020.0,Party,Women Maxi Dress Red
+254,Women,Apparel,Dress,Mini Dress,Olive,Winter,2010.0,Party,Women Mini Dress Olive
+255,Women,Footwear,Flip Flops,Beach Flip Flops,Peach,Summer,2015.0,Travel,Women Beach Flip Flops Peach
+256,Men,Apparel,Topwear,Blouse,Coral,Spring,2016.0,Casual,Men Blouse Coral
+257,Women,Apparel,Jacket,Denim Jacket,Olive,Fall,2010.0,Travel,Women Denim Jacket Olive
+258,Men,Footwear,Flip Flops,Beach Flip Flops,Red,Spring,2017.0,Casual,Men Beach Flip Flops Red
+259,Men,Footwear,Shoes,Formal Shoes,Green,Winter,2022.0,Travel,Men Formal Shoes Green
+260,Women,Footwear,Flip Flops,Beach Flip Flops,Turquoise Blue,Winter,2024.0,Formal,Women Beach Flip Flops Turquoise Blue
+261,Women,Footwear,Sandals,Flat Sandals,Peach,Spring,2025.0,Formal,Women Flat Sandals Peach
+262,Men,Apparel,Bottomwear,Trousers,White,Spring,2010.0,Travel,Men Trousers White
+263,Women,Apparel,Bottomwear,Shorts,Turquoise Blue,Fall,,Travel,Women Shorts Turquoise Blue
+264,Women,Apparel,Topwear,T-shirt,Peach,Summer,2013.0,Casual,Women T-shirt Peach
+265,Women,Apparel,Jacket,Denim Jacket,Peach,Spring,2021.0,Ethnic,Women Denim Jacket Peach
+266,Men,,Sandals,Heeled Sandals,Green,Winter,2010.0,Travel,Men Heeled Sandals Green
+267,Men,Apparel,Jacket,Leather Jacket,Green,Spring,2021.0,Ethnic,Men Leather Jacket Green
+268,Women,Footwear,Sandals,Heeled Sandals,Olive,Winter,2013.0,Travel,Women Heeled Sandals Olive
+269,Men,Apparel,Jacket,Denim Jacket,,Winter,2025.0,Ethnic,Men Denim Jacket Black
+270,Women,Apparel,Bottomwear,Shorts,Peach,Spring,2010.0,Formal,Women Shorts Peach
+271,Men,Footwear,Shoes,Sneakers,White,Summer,2018.0,Sports,Men Sneakers White
+272,Women,Footwear,Flip Flops,Beach Flip Flops,Coral,Winter,2024.0,Sports,Women Beach Flip Flops Coral
+273,Women,Footwear,Sandals,Heeled Sandals,,Spring,2017.0,Party,Women Heeled Sandals Olive
+274,Men,Apparel,Dress,Mini Dress,Yellow,Summer,2018.0,Formal,Men Mini Dress Yellow
+275,Women,Apparel,Bottomwear,Trousers,Red,Winter,2017.0,Party,Women Trousers Red
+276,Women,Apparel,Topwear,Shirt,Yellow,Fall,2025.0,Ethnic,Women Shirt Yellow
+277,Women,Footwear,Sandals,Flat Sandals,Turquoise Blue,,2022.0,Travel,Women Flat Sandals Turquoise Blue
+278,Men,Footwear,Flip Flops,Beach Flip Flops,White,Fall,2017.0,Party,Men Beach Flip Flops White
+279,Women,Footwear,Shoes,Sneakers,Coral,Winter,2013.0,Travel,Women Sneakers Coral
+280,Men,Footwear,Flip Flops,Beach Flip Flops,Turquoise Blue,Fall,2025.0,Party,Men Beach Flip Flops Turquoise Blue
+281,Men,Footwear,Sandals,Heeled Sandals,Green,Fall,2021.0,Ethnic,Men Heeled Sandals Green
+282,Men,Footwear,Flip Flops,Beach Flip Flops,Turquoise Blue,Spring,2024.0,Casual,Men Beach Flip Flops Turquoise Blue
+283,Women,Apparel,Topwear,T-shirt,Yellow,Winter,2020.0,Party,Women T-shirt Yellow
+284,Women,Footwear,Shoes,Sneakers,Navy Blue,Winter,2017.0,Travel,Women Sneakers Navy Blue
+285,Men,Apparel,Jacket,Denim Jacket,Black,Fall,2014.0,Casual,Men Denim Jacket Black
+286,Men,Apparel,Dress,Mini Dress,Peach,Spring,2018.0,Ethnic,Men Mini Dress Peach
+287,Women,Footwear,,Beach Flip Flops,Black,Spring,2019.0,Party,Women Beach Flip Flops Black
+288,Women,Footwear,Flip Flops,Beach Flip Flops,Olive,Fall,2017.0,Casual,Women Beach Flip Flops Olive
+289,Men,Footwear,Shoes,Formal Shoes,Red,Fall,2019.0,Travel,Men Formal Shoes Red
+290,,Footwear,Shoes,Formal Shoes,Navy Blue,,2011.0,,Women Formal Shoes Navy Blue
+291,Men,Footwear,Flip Flops,Beach Flip Flops,Peach,Fall,2024.0,Travel,Men Beach Flip Flops Peach
+292,Men,Footwear,Flip Flops,Beach Flip Flops,Black,Winter,2022.0,Sports,Men Beach Flip Flops Black
+293,Women,Footwear,Shoes,Sneakers,Turquoise Blue,Summer,2018.0,Sports,Women Sneakers Turquoise Blue
+294,Men,Footwear,Sandals,Flat Sandals,Olive,Winter,2010.0,Casual,Men Flat Sandals Olive
+295,Women,Apparel,Topwear,Shirt,White,Summer,2014.0,Sports,Women Shirt White
+296,Women,Apparel,Dress,Maxi Dress,Peach,Spring,2019.0,Ethnic,Women Maxi Dress Peach
+297,,Apparel,Bottomwear,Trousers,,Fall,2021.0,Sports,Men Trousers Green
+298,Men,Footwear,Shoes,Formal Shoes,,Winter,2019.0,Party,Men Formal Shoes Turquoise Blue
+299,Men,Footwear,Shoes,Sneakers,Navy Blue,,2025.0,Ethnic,Men Sneakers Navy Blue
+300,Men,Footwear,Sandals,Flat Sandals,Yellow,Spring,2021.0,Travel,Men Flat Sandals Yellow
+301,Men,Apparel,Jacket,Denim Jacket,Red,Winter,2015.0,Ethnic,Men Denim Jacket Red
+302,Men,Apparel,Jacket,Leather Jacket,White,Spring,2021.0,Party,Men Leather Jacket White
+303,,Footwear,Sandals,,Yellow,Spring,,Sports,Men Heeled Sandals Yellow
+304,Men,Footwear,Shoes,Formal Shoes,Turquoise Blue,Winter,2013.0,Casual,Men Formal Shoes Turquoise Blue
+305,Men,Apparel,Dress,Mini Dress,White,Spring,2013.0,Ethnic,Men Mini Dress White
+306,Women,Footwear,Shoes,Sneakers,Coral,Summer,2022.0,Casual,Women Sneakers Coral
+307,Women,Footwear,Sandals,Flat Sandals,Red,Spring,2019.0,Sports,Women Flat Sandals Red
+308,Men,Apparel,Jacket,Denim Jacket,Peach,Spring,2016.0,Ethnic,Men Denim Jacket Peach
+309,Women,Footwear,Flip Flops,Beach Flip Flops,Red,Fall,2021.0,Ethnic,Women Beach Flip Flops Red
+310,Men,Apparel,Dress,Maxi Dress,,Summer,2011.0,Formal,Men Maxi Dress Black
+311,Men,Footwear,Shoes,,Red,Fall,2025.0,Ethnic,Men Sneakers Red
+312,Women,Apparel,Dress,Maxi Dress,Peach,Summer,2012.0,Sports,Women Maxi Dress Peach
+313,Women,Apparel,Dress,Mini Dress,Coral,Summer,2015.0,Formal,Women Mini Dress Coral
+314,Men,Apparel,Dress,Mini Dress,Yellow,Fall,2017.0,Ethnic,Men Mini Dress Yellow
+315,Men,Apparel,Dress,Mini Dress,White,Summer,2022.0,Ethnic,Men Mini Dress White
+316,Women,Footwear,Sandals,Flat Sandals,Red,Winter,2016.0,Formal,Women Flat Sandals Red
+317,,Footwear,Shoes,Sneakers,White,Fall,2014.0,Travel,Men Sneakers White
+318,Women,Apparel,Bottomwear,Jeans,White,,2010.0,Ethnic,Women Jeans White
+319,Men,Footwear,Sandals,Heeled Sandals,,Spring,2025.0,Sports,Men Heeled Sandals White
+320,Men,Apparel,Topwear,T-shirt,Peach,Spring,2020.0,Sports,Men T-shirt Peach
+321,,Apparel,Jacket,Leather Jacket,Navy Blue,Winter,2022.0,Travel,Men Leather Jacket Navy Blue
+322,Women,Footwear,Shoes,Formal Shoes,Green,Summer,2014.0,Sports,Women Formal Shoes Green
+323,Women,Footwear,Flip Flops,Beach Flip Flops,White,Spring,2016.0,Sports,Women Beach Flip Flops White
+324,Women,Apparel,Jacket,Denim Jacket,Olive,Spring,2011.0,Formal,Women Denim Jacket Olive
+325,Women,Footwear,Flip Flops,Beach Flip Flops,Black,,2016.0,Casual,Women Beach Flip Flops Black
+326,Women,Footwear,Flip Flops,Beach Flip Flops,Black,Summer,2017.0,Ethnic,Women Beach Flip Flops Black
+327,Men,Footwear,Flip Flops,Beach Flip Flops,Navy Blue,Summer,2023.0,Formal,Men Beach Flip Flops Navy Blue
+328,Women,Apparel,Topwear,Shirt,Yellow,Fall,2022.0,Casual,Women Shirt Yellow
+329,Men,Apparel,Topwear,T-shirt,Coral,Summer,2025.0,Travel,Men T-shirt Coral
+330,Women,Apparel,Jacket,Leather Jacket,Peach,Winter,2017.0,Travel,Women Leather Jacket Peach
+331,Women,Footwear,Shoes,Formal Shoes,Yellow,Winter,,Travel,Women Formal Shoes Yellow
+332,Women,Footwear,Sandals,Flat Sandals,White,Winter,2020.0,Party,Women Flat Sandals White
+333,Women,Footwear,Flip Flops,Beach Flip Flops,Turquoise Blue,Fall,2020.0,Ethnic,Women Beach Flip Flops Turquoise Blue
+334,Men,Footwear,Flip Flops,Beach Flip Flops,Coral,Spring,2015.0,Ethnic,Men Beach Flip Flops Coral
+335,Women,Footwear,Flip Flops,Beach Flip Flops,Turquoise Blue,Fall,2015.0,Casual,Women Beach Flip Flops Turquoise Blue
+336,Women,Footwear,Sandals,Heeled Sandals,Yellow,Winter,,Ethnic,Women Heeled Sandals Yellow
+337,Men,Footwear,Flip Flops,Beach Flip Flops,Black,Fall,2010.0,Ethnic,Men Beach Flip Flops Black
+338,Women,Apparel,Bottomwear,Trousers,Black,Summer,2013.0,Formal,Women Trousers Black
+339,Women,Footwear,Shoes,Sneakers,Navy Blue,Spring,2011.0,Casual,Women Sneakers Navy Blue
+340,Women,Footwear,Flip Flops,Beach Flip Flops,Turquoise Blue,Summer,2024.0,Ethnic,Women Beach Flip Flops Turquoise Blue
+341,Men,Apparel,Bottomwear,Shorts,Green,,2022.0,Formal,Men Shorts Green
+342,Women,Apparel,Dress,Mini Dress,Coral,Winter,2013.0,Sports,Women Mini Dress Coral
+343,Men,Apparel,Jacket,Leather Jacket,Black,Fall,2016.0,Travel,Men Leather Jacket Black
+344,Women,Apparel,Jacket,Leather Jacket,Turquoise Blue,Summer,2024.0,Formal,Women Leather Jacket Turquoise Blue
+345,Men,Apparel,Bottomwear,Jeans,Coral,Summer,2014.0,Travel,Men Jeans Coral
+346,Women,Footwear,Sandals,Heeled Sandals,,Summer,2022.0,Formal,Women Heeled Sandals Black
+347,Women,Apparel,Bottomwear,Trousers,Coral,Spring,2020.0,Travel,Women Trousers Coral
+348,,Apparel,Dress,Maxi Dress,White,Summer,2012.0,Travel,Women Maxi Dress White
+349,Women,Footwear,Sandals,Flat Sandals,Peach,Spring,2024.0,Sports,Women Flat Sandals Peach
+350,Women,Apparel,Topwear,Blouse,Peach,Fall,2013.0,Ethnic,Women Blouse Peach
+351,Men,,Bottomwear,Trousers,Black,Fall,2011.0,Party,Men Trousers Black
+352,Women,Footwear,Shoes,Sneakers,Coral,Fall,2018.0,Casual,Women Sneakers Coral
+353,,Apparel,Dress,Mini Dress,White,Fall,2018.0,Party,Men Mini Dress White
+354,Men,Footwear,Shoes,Sneakers,Yellow,Summer,2014.0,Ethnic,Men Sneakers Yellow
+355,Men,Footwear,Shoes,Formal Shoes,Black,Summer,2015.0,Sports,Men Formal Shoes Black
+356,Men,Footwear,Shoes,Formal Shoes,Peach,Spring,2020.0,Ethnic,Men Formal Shoes Peach
+357,Women,Footwear,Flip Flops,Beach Flip Flops,Green,Spring,2024.0,Travel,Women Beach Flip Flops Green
+358,Men,Apparel,Topwear,Shirt,Black,Summer,2024.0,Party,Men Shirt Black
+359,Men,Apparel,Topwear,Blouse,White,Spring,2015.0,Casual,Men Blouse White
+360,Women,Footwear,Shoes,Sneakers,Green,Summer,2022.0,Sports,Women Sneakers Green
+361,Men,Footwear,Shoes,Sneakers,Turquoise Blue,Spring,2016.0,Ethnic,Men Sneakers Turquoise Blue
+362,Women,Apparel,,T-shirt,Olive,Fall,2014.0,Travel,Women T-shirt Olive
+363,Men,Apparel,Topwear,Shirt,Peach,Summer,2021.0,Party,Men Shirt Peach
+364,Women,Footwear,Sandals,Flat Sandals,White,Summer,2022.0,Travel,Women Flat Sandals White
+365,Men,Apparel,Bottomwear,Jeans,Coral,Winter,2025.0,Sports,Men Jeans Coral
+366,Men,Footwear,Sandals,Flat Sandals,Olive,Summer,2016.0,Travel,Men Flat Sandals Olive
+367,Men,,Sandals,Flat Sandals,Peach,Summer,2017.0,Travel,Men Flat Sandals Peach
+368,Men,Apparel,Topwear,Shirt,Coral,Winter,2012.0,Formal,Men Shirt Coral
+369,Men,Apparel,Bottomwear,Trousers,Black,Summer,2018.0,Formal,Men Trousers Black
+370,Women,Apparel,Topwear,Shirt,Black,Summer,2010.0,Formal,Women Shirt Black
+371,Men,Footwear,Sandals,Heeled Sandals,Olive,Winter,2015.0,Ethnic,Men Heeled Sandals Olive
+372,Men,Apparel,Topwear,Blouse,Black,Fall,2017.0,Sports,Men Blouse Black
+373,Men,Apparel,Topwear,T-shirt,Yellow,Fall,2016.0,Sports,Men T-shirt Yellow
+374,Men,Footwear,Sandals,Flat Sandals,Black,Winter,2024.0,Ethnic,Men Flat Sandals Black
+375,Women,Apparel,Jacket,Denim Jacket,Black,Spring,2025.0,Casual,Women Denim Jacket Black
+376,Women,Apparel,Dress,Maxi Dress,Navy Blue,Summer,2018.0,Formal,Women Maxi Dress Navy Blue
+377,Men,Apparel,,Shirt,Turquoise Blue,Spring,2016.0,Ethnic,Men Shirt Turquoise Blue
+378,Men,Apparel,Jacket,Denim Jacket,Navy Blue,Spring,2011.0,,Men Denim Jacket Navy Blue
+379,Women,Apparel,Bottomwear,Trousers,Green,,2012.0,Casual,Women Trousers Green
+380,Women,Apparel,Dress,Mini Dress,Navy Blue,Summer,2022.0,Travel,Women Mini Dress Navy Blue
+381,Men,Footwear,Sandals,Flat Sandals,Turquoise Blue,Fall,2011.0,Casual,Men Flat Sandals Turquoise Blue
+382,Men,Footwear,Shoes,Sneakers,Peach,Winter,2017.0,Party,Men Sneakers Peach
+383,Men,Footwear,Sandals,Heeled Sandals,Peach,Fall,2012.0,Formal,Men Heeled Sandals Peach
+384,Men,Footwear,Shoes,Sneakers,Turquoise Blue,Summer,2019.0,Sports,Men Sneakers Turquoise Blue
+385,Men,Footwear,Flip Flops,Beach Flip Flops,Yellow,Spring,2024.0,Sports,Men Beach Flip Flops Yellow
+386,Men,Apparel,Dress,Mini Dress,Peach,Winter,2015.0,Travel,Men Mini Dress Peach
+387,Women,Apparel,Jacket,Leather Jacket,Yellow,Winter,2016.0,Ethnic,Women Leather Jacket Yellow
+388,Men,Footwear,Flip Flops,Beach Flip Flops,Peach,Fall,2014.0,Casual,Men Beach Flip Flops Peach
+389,Men,Footwear,Flip Flops,Beach Flip Flops,Peach,Summer,2014.0,Travel,Men Beach Flip Flops Peach
+390,Men,Footwear,Shoes,Sneakers,Black,Spring,2012.0,Ethnic,Men Sneakers Black
+391,Women,Footwear,Flip Flops,Beach Flip Flops,Navy Blue,Fall,2021.0,Party,Women Beach Flip Flops Navy Blue
+392,Men,Footwear,Sandals,Heeled Sandals,White,Summer,2014.0,,Men Heeled Sandals White
+393,Women,Footwear,Shoes,Formal Shoes,Coral,Winter,2016.0,Formal,Women Formal Shoes Coral
+394,Men,Apparel,Topwear,T-shirt,Green,Fall,2025.0,Casual,Men T-shirt Green
+395,Men,Footwear,Sandals,Heeled Sandals,Coral,,2018.0,Travel,Men Heeled Sandals Coral
+396,Men,Footwear,Flip Flops,Beach Flip Flops,Yellow,Winter,2011.0,Party,Men Beach Flip Flops Yellow
+397,Men,Apparel,Bottomwear,Shorts,Yellow,,2019.0,Party,Men Shorts Yellow
+398,Women,Footwear,Flip Flops,Beach Flip Flops,Black,Winter,2014.0,Ethnic,Women Beach Flip Flops Black
+399,Men,Footwear,Flip Flops,Beach Flip Flops,Black,Winter,2010.0,Sports,Men Beach Flip Flops Black
+400,Women,Apparel,Topwear,T-shirt,White,Winter,2017.0,Party,Women T-shirt White
+401,Men,Apparel,Topwear,,Turquoise Blue,Summer,2025.0,Casual,Men T-shirt Turquoise Blue
+402,Men,Apparel,Dress,Maxi Dress,Black,Winter,2018.0,Ethnic,Men Maxi Dress Black
+403,Men,Apparel,Bottomwear,Trousers,White,Summer,2013.0,Formal,Men Trousers White
+404,Women,Footwear,Shoes,Sneakers,Olive,Summer,2020.0,Casual,Women Sneakers Olive
+405,Women,Footwear,Flip Flops,Beach Flip Flops,Peach,Winter,2023.0,,Women Beach Flip Flops Peach
+406,Women,Apparel,Jacket,Leather Jacket,Turquoise Blue,Summer,2013.0,Formal,Women Leather Jacket Turquoise Blue
+407,Men,Footwear,Shoes,Sneakers,Olive,Spring,2018.0,Travel,Men Sneakers Olive
+408,Women,Footwear,Shoes,Formal Shoes,Black,Summer,2018.0,Sports,Women Formal Shoes Black
+409,Women,Footwear,Shoes,Formal Shoes,Coral,Summer,2012.0,Travel,Women Formal Shoes Coral
+410,Men,Apparel,Jacket,Denim Jacket,Olive,Spring,2020.0,Sports,Men Denim Jacket Olive
+411,Women,Footwear,Flip Flops,Beach Flip Flops,Coral,Spring,2025.0,Sports,Women Beach Flip Flops Coral
+412,Women,Footwear,,Sneakers,Coral,Summer,2014.0,Party,Women Sneakers Coral
+413,Women,Apparel,Bottomwear,,Red,Fall,2012.0,Travel,Women Jeans Red
+414,Women,Footwear,Shoes,Formal Shoes,Coral,Summer,2020.0,Sports,Women Formal Shoes Coral
+415,Women,Apparel,Dress,Mini Dress,Olive,Winter,2025.0,Travel,Women Mini Dress Olive
+416,Men,Apparel,Topwear,Blouse,Yellow,Fall,2012.0,Ethnic,Men Blouse Yellow
+417,Women,Apparel,Jacket,Leather Jacket,Green,Spring,2015.0,Casual,Women Leather Jacket Green
+418,Women,Apparel,Bottomwear,Trousers,Peach,Winter,2017.0,Formal,Women Trousers Peach
+419,Women,Footwear,Sandals,Flat Sandals,Green,Winter,2022.0,Formal,Women Flat Sandals Green
+420,Men,Apparel,Bottomwear,Trousers,White,,2018.0,Party,Men Trousers White
+421,Women,Apparel,Jacket,Leather Jacket,Black,Spring,2014.0,Formal,Women Leather Jacket Black
+422,Men,Apparel,Topwear,Shirt,Yellow,Spring,2017.0,Sports,Men Shirt Yellow
+423,Men,Footwear,Sandals,Heeled Sandals,Peach,Winter,2018.0,Formal,Men Heeled Sandals Peach
+424,Men,Apparel,Dress,Mini Dress,Green,Fall,2013.0,Ethnic,Men Mini Dress Green
+425,Men,Footwear,Shoes,Sneakers,Peach,Fall,2023.0,Casual,Men Sneakers Peach
+426,Men,Apparel,Dress,Maxi Dress,Yellow,Spring,,Sports,Men Maxi Dress Yellow
+427,Women,Footwear,Sandals,Flat Sandals,Black,Winter,2017.0,Ethnic,Women Flat Sandals Black
+428,Men,Footwear,Shoes,Formal Shoes,Green,,2012.0,Sports,Men Formal Shoes Green
+429,Men,Apparel,Jacket,Denim Jacket,Green,Winter,,Sports,Men Denim Jacket Green
+430,Women,Footwear,Shoes,Sneakers,Red,Winter,2018.0,Party,Women Sneakers Red
+431,Men,Footwear,Shoes,Sneakers,Green,Fall,2017.0,Ethnic,Men Sneakers Green
+432,Women,Apparel,Jacket,Leather Jacket,Coral,Fall,2012.0,Casual,Women Leather Jacket Coral
+433,Men,Apparel,Dress,Mini Dress,Green,Spring,2021.0,Formal,Men Mini Dress Green
+434,Women,Footwear,Shoes,Formal Shoes,Black,Fall,2011.0,Formal,Women Formal Shoes Black
+435,Women,Footwear,Flip Flops,Beach Flip Flops,Yellow,Spring,2014.0,Ethnic,Women Beach Flip Flops Yellow
+436,Women,Footwear,Shoes,Formal Shoes,Navy Blue,Spring,2021.0,Travel,Women Formal Shoes Navy Blue
+437,Men,Footwear,Sandals,Flat Sandals,Coral,Summer,2015.0,Sports,Men Flat Sandals Coral
+438,Women,Apparel,Dress,Maxi Dress,,Summer,2024.0,Travel,Women Maxi Dress Navy Blue
+439,Women,Apparel,Bottomwear,Jeans,Green,Fall,2011.0,Travel,Women Jeans Green
+440,Men,Apparel,Jacket,Leather Jacket,Green,Winter,2013.0,Party,Men Leather Jacket Green
+441,Men,Footwear,Flip Flops,Beach Flip Flops,Peach,Fall,2023.0,Casual,Men Beach Flip Flops Peach
+442,Men,Apparel,Jacket,Denim Jacket,Green,Spring,2023.0,Casual,Men Denim Jacket Green
+443,Men,Apparel,Topwear,Blouse,Black,Spring,,Casual,Men Blouse Black
+444,Women,Apparel,Bottomwear,Trousers,Navy Blue,Summer,2023.0,Travel,Women Trousers Navy Blue
+445,Men,,Bottomwear,Jeans,Coral,Fall,2013.0,Sports,Men Jeans Coral
+446,Women,Footwear,Sandals,Heeled Sandals,Olive,,2012.0,Formal,Women Heeled Sandals Olive
+447,Men,,Sandals,Flat Sandals,Black,Fall,2024.0,Formal,Men Flat Sandals Black
+448,Men,Apparel,Dress,Mini Dress,Navy Blue,Fall,2010.0,Casual,Men Mini Dress Navy Blue
+449,Women,Footwear,Flip Flops,Beach Flip Flops,Red,Summer,2010.0,Sports,Women Beach Flip Flops Red
+450,Women,Footwear,Shoes,Sneakers,Green,Winter,2025.0,Party,Women Sneakers Green
+451,Women,Footwear,Flip Flops,Beach Flip Flops,Peach,Winter,2016.0,Party,Women Beach Flip Flops Peach
+452,Women,Footwear,Shoes,Sneakers,Turquoise Blue,,2010.0,Party,Women Sneakers Turquoise Blue
+453,Men,Apparel,Bottomwear,Trousers,Green,Fall,2021.0,Casual,Men Trousers Green
+454,Women,Footwear,Shoes,Sneakers,Coral,Summer,2011.0,Ethnic,Women Sneakers Coral
+455,Men,Apparel,,Mini Dress,White,Summer,2016.0,Sports,Men Mini Dress White
+456,Women,Footwear,Sandals,Flat Sandals,White,Spring,2017.0,,Women Flat Sandals White
+457,Men,Apparel,Topwear,T-shirt,Yellow,Fall,2022.0,Formal,Men T-shirt Yellow
+458,Women,Footwear,Flip Flops,Beach Flip Flops,Yellow,Fall,2010.0,Party,Women Beach Flip Flops Yellow
+459,Women,Footwear,Sandals,Heeled Sandals,Red,Fall,2012.0,Casual,Women Heeled Sandals Red
+460,Women,Footwear,Sandals,Flat Sandals,Navy Blue,Summer,2018.0,Formal,Women Flat Sandals Navy Blue
+461,Men,Apparel,Topwear,Shirt,Green,Summer,2024.0,Party,Men Shirt Green
+462,Women,Footwear,Flip Flops,Beach Flip Flops,Olive,Winter,2013.0,Party,Women Beach Flip Flops Olive
+463,Women,Apparel,Jacket,Denim Jacket,Peach,Summer,2021.0,Travel,Women Denim Jacket Peach
+464,Women,Footwear,Shoes,Sneakers,Turquoise Blue,Winter,2025.0,Travel,Women Sneakers Turquoise Blue
+465,Women,Apparel,Jacket,Denim Jacket,Black,,2019.0,Casual,Women Denim Jacket Black
+466,Women,Apparel,Dress,Mini Dress,Red,Winter,2025.0,Casual,Women Mini Dress Red
+467,Women,Apparel,Bottomwear,Shorts,Peach,Spring,2024.0,Formal,Women Shorts Peach
+468,Women,Footwear,Sandals,Flat Sandals,White,Summer,2019.0,Ethnic,Women Flat Sandals White
+469,Women,Apparel,Topwear,Blouse,Turquoise Blue,Winter,2010.0,Party,Women Blouse Turquoise Blue
+470,Men,Footwear,Shoes,Formal Shoes,Olive,Winter,2023.0,Casual,Men Formal Shoes Olive
+471,,Apparel,Dress,Mini Dress,White,Summer,2020.0,Formal,Men Mini Dress White
+472,Men,Apparel,Bottomwear,Jeans,Coral,Winter,2025.0,Ethnic,Men Jeans Coral
+473,Men,Apparel,Dress,Maxi Dress,Red,Winter,2019.0,Ethnic,Men Maxi Dress Red
+474,Women,Footwear,Shoes,Sneakers,Peach,Fall,2015.0,Casual,Women Sneakers Peach
+475,Women,Apparel,Bottomwear,Shorts,Turquoise Blue,Summer,2019.0,Casual,Women Shorts Turquoise Blue
+476,Women,Footwear,Sandals,Heeled Sandals,,Fall,2017.0,,Women Heeled Sandals Peach
+477,Women,Apparel,Topwear,Blouse,,Spring,2025.0,Sports,Women Blouse White
+478,Women,Footwear,Sandals,Heeled Sandals,,Winter,2010.0,Casual,Women Heeled Sandals Olive
+479,Men,Footwear,Sandals,Flat Sandals,Red,Spring,2021.0,Casual,Men Flat Sandals Red
+480,Women,Apparel,Bottomwear,Shorts,Coral,Winter,2012.0,Ethnic,Women Shorts Coral
+481,Men,Footwear,Sandals,Heeled Sandals,Navy Blue,Spring,2011.0,Party,Men Heeled Sandals Navy Blue
+482,Men,Apparel,Dress,Mini Dress,Turquoise Blue,Spring,2020.0,Casual,Men Mini Dress Turquoise Blue
+483,Men,Apparel,Bottomwear,Trousers,Green,Summer,2013.0,Casual,Men Trousers Green
+484,Women,Apparel,Dress,Maxi Dress,Black,Spring,2013.0,Travel,Women Maxi Dress Black
+485,Men,Footwear,Shoes,Formal Shoes,Coral,Spring,2012.0,Casual,Men Formal Shoes Coral
+486,Men,Footwear,Flip Flops,Beach Flip Flops,Olive,Summer,2020.0,Travel,Men Beach Flip Flops Olive
+487,Men,Apparel,Dress,Mini Dress,Olive,Spring,2024.0,Formal,Men Mini Dress Olive
+488,Men,Apparel,Jacket,Leather Jacket,Coral,Fall,2019.0,Party,Men Leather Jacket Coral
+489,Women,Apparel,Bottomwear,Shorts,Red,Summer,2020.0,Formal,Women Shorts Red
+490,Women,Footwear,Shoes,Sneakers,Peach,Summer,2025.0,Formal,Women Sneakers Peach
+491,Women,Apparel,Jacket,Denim Jacket,Navy Blue,Fall,2010.0,Casual,Women Denim Jacket Navy Blue
+492,Men,Apparel,Dress,Maxi Dress,Red,Fall,2015.0,Party,Men Maxi Dress Red
+493,Men,Footwear,Shoes,Formal Shoes,Peach,Winter,2021.0,Party,Men Formal Shoes Peach
+494,Men,Apparel,Bottomwear,Shorts,Olive,Fall,2020.0,Ethnic,Men Shorts Olive
+495,Men,Apparel,Dress,Maxi Dress,Turquoise Blue,Spring,2016.0,Travel,Men Maxi Dress Turquoise Blue
+496,Women,Footwear,Shoes,Formal Shoes,,Spring,2025.0,Sports,Women Formal Shoes Yellow
+497,Women,Apparel,Dress,Mini Dress,Olive,Winter,2021.0,Party,Women Mini Dress Olive
+498,Women,,Flip Flops,Beach Flip Flops,Olive,Fall,2025.0,Party,Women Beach Flip Flops Olive
+499,Men,Footwear,Shoes,Sneakers,Black,Summer,2021.0,Casual,Men Sneakers Black
+500,Men,Footwear,,Formal Shoes,Green,Fall,2022.0,Sports,Men Formal Shoes Green
