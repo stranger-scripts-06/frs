@@ -66,22 +66,7 @@ occasion_accessories = {
     'Travel': ['Duffel Bag', 'Comfortable Sneakers', 'Crossbody Bag', 'Travel Hat']
 }
 
-outfit_images = {
-    't-shirt': 'images/tshirt.jpg',
-    'shirt': 'images/shirt.jpg',
-    'blouse': 'images/blouse.jpg',
-    'jeans': 'images/jeans.jpg',
-    'trousers': 'images/trousers.jpg',
-    'shorts': 'images/shorts.jpg',
-    'sneakers': 'images/sneakers.jpg',
-    'formal shoes': 'images/formal_shoes.jpg',
-    'sandals': 'images/sandals.jpg',
-    'flip flops': 'images/flip_flops.jpg'
-}
 
-# -------------------------------------------
-# Functions
-# -------------------------------------------
 
 def closest_skin_tone(avg_rgb):
     ref_tones = {
