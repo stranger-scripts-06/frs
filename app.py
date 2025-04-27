@@ -27,7 +27,7 @@ st.write("Upload your face photo, and we'll suggest outfits and accessories just
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv('styles.csv')
+    df = pd.read_csv('style.csv')
     df = df.dropna(subset=['gender', 'masterCategory', 'baseColour', 'usage'])
     return df
 
